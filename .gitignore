@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific: credentials must never be committed (settings live in .env)
+*service-account*.json
+client_secret*.json
+credentials.json
+token*.json
+token.pickle
+
+# Local lesson data and training output
+lessons*.json
+models/

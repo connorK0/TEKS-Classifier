@@ -1,0 +1,538 @@
+target,text
+1.A,the principles of the Declaration of Independence and how they relate to the Constitution.
+1.A,the influence of the Bill of Rights on American society.
+1.A,the significance of founding documents in shaping American values.
+1.A,the importance of the Declaration of Independence in the context of global democracy movements.
+1.A,the relationship between early American legal documents and modern judicial interpretation.
+1.B,Interpret how historical events the application of founding principles.
+1.B,the impact of early federal policies on the implementation of constitutional principles.
+1.B,how constitutional amendments have adapted foundational principles over time.
+1.B,the application of these principles in domestic versus foreign policies.
+1.B,how the principles influenced major reform movements in U.S. history.
+1.C,the motto 'E Pluribus Unum' in the context of American cultural diversity.
+1.C,the historical significance of 'In God We Trust' as a national motto.
+1.C,the role of these mottos in promoting unity and national identity.
+1.C,how the mottos reflect the evolving social values of the United States.
+1.C,debates surrounding the adoption and interpretation of these national mottos.
+2.A,the major eras in U.S. history from 1877 to the present and their defining characteristics
+2.A,"the significance of key years as turning points in U.S. history, such as 1898, 1914-1918, 1929, 1939-1945, and 1957"
+2.A,"political issues such as Indian policies, the growth of political machines, and civil service reform"
+2.A,"economic issues including industrialization, growth of railroads, labor unions, farm issues, and the pros and cons of big business"
+2.A,"social issues affecting women, minorities, children, immigrants, and urbanization"
+2.B,"American expansionism, including acquisitions such as Guam, Hawaii, the Philippines, and Puerto Rico"
+2.B,"the impact of Progressive Era reforms, including initiative, referendum, recall, and constitutional amendments"
+2.B,the impact of muckrakers and reform leaders on American society
+2.B,"causes and effects of events and social issues such as immigration, Social Darwinism, race relations, and the changing role of women"
+2.B,how Jim Crow laws and the Ku Klux Klan created obstacles to civil rights for minorities
+3.A,political issues such as Indian policies
+3.A,the growth of political machines
+3.A,civil service reform
+3.A,the impact of government policies on Native Americans
+3.A,the influence of political organizations on U.S. governance
+3.B,economic issues related to industrialization
+3.B,the growth and impact of railroads
+3.B,the development and influence of labor unions
+3.B,farm issues and their economic consequences
+3.B,the pros and cons of big business in the American economy
+3.C,social issues affecting women in the late 19th century
+3.C,the challenges faced by minorities during this period
+3.C,the impact of industrialization on children and child labor
+3.C,the experiences of immigrants in American society
+3.C,the effects of urbanization on social structures and living conditions
+4.A,"why significant events, policies, and individuals moved the United States into the position of a world power"
+4.A,the impact of the Spanish-American War on U.S. global influence
+4.A,the role of U.S. expansionism in shaping foreign policy
+4.A,the contributions of Alfred Thayer Mahan to U.S. naval strategy
+4.A,the impact of Theodore Roosevelt and Sanford B. Dole on U.S. global positioning
+4.B,"American expansionism, including acquisitions such as Guam, Hawaii, the Philippines, and Puerto Rico"
+4.B,the motivations behind U.S. territorial expansion in the late 19th/early 20th century
+4.B,the process of acquiring Guam and its strategic importance
+4.B,the annexation of Hawaii and its economic implications
+4.B,the acquisition and governance of the Philippines and Puerto Rico
+4.C,the causes of World War I and reasons for U.S. entry
+4.C,the impact of European alliances on the outbreak of World War I
+4.C,the role of nationalism and militarism in escalating tensions
+4.C,the effect of unrestricted submarine warfare on U.S. neutrality
+4.C,the influence of the Zimmermann Telegram on U.S. decision to enter the war
+4.D,the contributions of the American Expeditionary Forces (AEF) led by General John J. Pershing
+4.D,the organization and deployment of the AEF to Europe
+4.D,"the role of the AEF in major battles, including the Battle of Argonne Forest"
+4.D,the impact of American troops on the Allied war effort
+4.D,General Pershing's leadership and strategic decisions
+4.E,the impact of significant technological innovations in World War I on the Western Front
+4.E,the role of machine guns in trench warfare
+4.E,the impact of airplanes on reconnaissance and combat
+4.E,the use of tanks in breaking the stalemate of trench warfare
+4.E,the devastating effects of poison gas on soldiers and warfare tactics
+4.F,major issues raised by U.S. involvement in World War I
+4.F,the debate between isolationism and interventionism in U.S. foreign policy
+4.F,the challenges to U.S. neutrality prior to entering the war
+4.F,Woodrow Wilson's Fourteen Points and their impact on post-war planning
+4.F,the outcomes and implications of the Treaty of Versailles for the United States
+5.A,the impact of Progressive Era reforms
+5.A,"the concept of initiative, referendum, and recall"
+5.A,the passage of the 16th Amendment (income tax)
+5.A,the passage of the 17th Amendment (direct election of senators)
+5.A,the passage of the 18th Amendment (Prohibition) and 19th Amendment (women's suffrage)
+5.B,the impact of muckrakers on American society
+5.B,the contributions of Upton Sinclair to reform movements
+5.B,the role of Susan B. Anthony in the women's suffrage movement
+5.B,"the social reforms of Jane Addams, particularly in urban areas"
+5.B,the impact of Ida B. Wells and W. E. B. DuBois on civil rights
+5.C,the impact of third parties on American politics
+5.C,the goals and influence of the Populist Party
+5.C,the platform and impact of the Progressive Party
+5.C,and contrast the Populist and Progressive parties
+5.C,the long-term effects of third-party movements on major party policies
+6.A,causes and effects of events and social issues such as immigration
+6.A,the impact of Social Darwinism on society
+6.A,the significance of the Scopes Trial and its implications
+6.A,the concept of eugenics and its influence on race relations
+6.A,"the effects of nativism, the Red Scare, and Prohibition on American society"
+6.B,the impact of Henry Ford on American industry and society
+6.B,the influence of Marcus Garvey on African American empowerment
+6.B,the contributions of Charles A. Lindbergh to aviation and American culture
+6.B,the significance of these individuals in shaping 1920s America
+6.B,"and contrast the lasting legacies of Ford, Garvey, and Lindbergh"
+7.A,reasons for U.S. involvement in World War II
+7.A,"the aggression of Italian, German, and Japanese dictatorships"
+7.A,the significance of the attack on Pearl Harbor
+7.A,the global political climate leading to World War II
+7.A,the impact of totalitarian regimes on U.S. foreign policy
+7.B,Franklin D. Roosevelt's domestic and international leadership during World War II
+7.B,Harry Truman's domestic and international leadership during World War II
+7.B,the U.S. relationship with its allies
+7.B,the decision-making process of U.S. leaders during the war
+7.B,the impact of presidential policies on the war effort
+7.C,"major issues of World War II, including the Holocaust"
+7.C,the internment of Japanese Americans resulting from Executive Order 9066
+7.C,the development of atomic weapons
+7.C,the ethical implications of wartime decisions
+7.C,the long-term consequences of these major issues
+7.D,"major military events of World War II, including fighting on multiple fronts"
+7.D,the significance of the Bataan Death March
+7.D,U.S. military advancement through the Pacific Islands
+7.D,the importance of the Battle of Midway
+7.D,the impact of the invasion of Normandy and liberation of concentration camps
+7.E,"the military contributions of leaders during World War II, including Dwight Eisenhower, Douglas MacArthur, and Chester W. Nimitz"
+7.E,Dwight Eisenhower's role as Supreme Commander of Allied Forces in Europe
+7.E,Douglas MacArthur's leadership in the Pacific Theater
+7.E,Chester W. Nimitz's contributions as Commander in Chief of the U.S. Pacific Fleet
+7.E,and contrast the leadership styles and strategies of these military leaders
+7.F,"issues affecting the home front, including volunteerism, the purchase of war bonds, and Victory Gardens and opportunities and obstacles for women and ethnic minorities"
+7.F,the role of volunteerism in supporting the war effort
+7.F,the significance of war bonds in financing the war
+7.F,the purpose and impact of Victory Gardens
+7.F,the opportunities and obstacles faced by women and ethnic minorities during the war
+8.A,U.S. responses to Soviet aggression after World War II
+8.A,the Truman Doctrine and its impact
+8.A,the Marshall Plan and its effects on post-war Europe
+8.A,the significance of the Berlin Airlift
+8.A,the formation and purpose of NATO
+8.A,John F. Kennedy's role in the Cuban Missile Crisis
+8.B,how Cold War tensions were intensified by various factors
+8.B,the role of the House Un-American Activities Committee (HUAC)
+8.B,the impact of McCarthyism on American society
+8.B,the arms race between the U.S. and Soviet Union
+8.B,the space race and its effects on Cold War tensions
+8.C,reasons for U.S. involvement in the Korean War
+8.C,the relationship between the Korean War and containment policy
+8.C,major events and battles of the Korean War
+8.C,the outcomes of U.S. involvement in the Korean War
+8.C,the long-term effects of the Korean War on U.S. foreign policy
+8.D,reasons for U.S. involvement in foreign countries during the Cold War
+8.D,the Domino Theory and its influence on U.S. foreign policy
+8.D,the initial U.S. involvement in Vietnam
+8.D,the escalation of U.S. presence in Vietnam
+8.D,the outcomes of the Vietnam War for the United States
+8.E,major events of the Vietnam War
+8.E,the escalation of forces in Vietnam
+8.E,the significance of the Tet Offensive
+8.E,the policy of Vietnamization
+8.E,the fall of Saigon and its implications
+8.F,various responses to the Vietnam War within the United States
+8.F,the impact of the draft on American society
+8.F,the significance of the 26th Amendment
+8.F,the role of media in shaping public opinion about the war
+8.F,the anti-war movement and its effects on U.S. policy
+9.A,the historical development of the civil rights movement from the late 1800s through the 21st century
+9.A,"Include the 13th, 14th, 15th, and 19th amendments in the civil rights movement timeline"
+9.A,the progression of civil rights over more than a century
+9.A,key milestones and legislative changes in the civil rights movement
+9.A,the long-term evolution of civil rights in the United States
+9.B,how Jim Crow laws created obstacles to civil rights for minorities
+9.B,the role of the Ku Klux Klan in suppressing minority rights
+9.B,the impact of voting suppression on civil rights
+9.B,the systemic barriers faced by minorities due to discriminatory laws
+9.B,the connection between Jim Crow laws and the civil rights movement
+9.C,the roles of political organizations that promoted African American civil rights
+9.C,the impact of organizations supporting Chicano civil rights
+9.C,the contributions of groups promoting American Indian civil rights
+9.C,the role of women's rights organizations in the civil rights movement
+9.C,the diversity of groups involved in various civil rights causes
+9.D,"the roles of significant leaders who supported various rights movements, including Martin Luther King Jr., Cesar Chavez, Dolores Huerta, Rosa Parks, and Betty Friedan"
+9.D,the contributions of civil rights leaders to different minority groups
+9.D,the impact of these leaders on advancing civil rights in America
+9.D,and contrast the approaches and strategies used by different civil rights leaders
+9.D,the long-term effects of these leaders' actions on American society
+9.E,and contrast the approach taken by the Black Panthers with the nonviolent approach of Martin Luther King Jr.
+9.E,the ideologies and methods of the Black Panthers and Martin Luther King Jr.
+9.E,the historical context that led to the emergence of these different approaches
+9.E,the effectiveness of each approach in achieving civil rights goals
+9.E,the public perception and media portrayal of these different approaches
+9.F,"the impact of the writings of Martin Luther King Jr., including his ""I Have a Dream"" speech and ""Letter from Birmingham Jail"" on the civil rights movement"
+9.F,the key themes and arguments presented in King's writings and speeches
+9.F,how these works influenced public opinion and policy changes
+9.F,the rhetorical strategies used by King in these influential pieces
+9.F,the lasting impact of King's words on American culture and civil rights discourse
+9.G,"presidential actions and congressional votes to address minority rights in the United States, including desegregation of the armed forces"
+9.G,the significance of the Civil Rights Act of 1964 in addressing minority rights
+9.G,the impact of the Voting Rights Act of 1965 on minority participation in the political process
+9.G,the effects of executive orders on civil rights issues
+9.G,the role of federal legislation in promoting equality and civil rights
+9.H,how George Wallace sought to maintain the status quo in the South
+9.H,Orval Faubus's attempts to resist desegregation in Arkansas
+9.H,the role of the Congressional bloc of southern Democrats in opposing civil rights legislation
+9.H,the strategies used by segregationists to resist changes in the racial status quo
+9.H,the impact of political opposition to civil rights reforms
+9.I,changes in the United States resulting from increased minority participation in the political process
+9.I,the impact of civil rights movements on social integration
+9.I,the effects of the civil rights movement on economic opportunities for minorities
+9.I,the long-term consequences of civil rights legislation on American society
+9.I,the ongoing challenges and progress in achieving equality in the United States
+9.J,how Sweatt v. Painter played a role in protecting minority rights during the civil rights movement
+9.J,the significance of Brown v. Board of Education in advancing desegregation
+9.J,the impact of these landmark court cases on the education system
+9.J,how these legal decisions contributed to the broader civil rights movement
+9.J,the long-term effects of these court rulings on racial equality in the United States
+10.A,Richard M. Nixon's leadership in normalizing relations with China
+10.A,Nixon's policy of detente with the Soviet Union
+10.A,the impact of Nixon's foreign policy on Cold War tensions
+10.A,the significance of Nixon's visit to China in 1972
+10.A,the long-term effects of Nixon's foreign policy decisions
+10.B,Ronald Reagan's leadership in domestic policies
+10.B,"Reagan's economic policies, including supply-side economics"
+10.B,"Reagan's international policies, particularly the ""Peace Through Strength"" doctrine"
+10.B,the impact of Reaganomics on the U.S. economy
+10.B,Reagan's role in ending the Cold War
+10.C,U.S. involvement in supporting Israel
+10.C,the significance of the Camp David Accords
+10.C,the causes and consequences of the Iran Hostage Crisis
+10.C,the role of U.S. Marines in Lebanon
+10.C,the Iran-Contra Affair and its impact on U.S. foreign policy
+10.D,the causes of the conservative resurgence in the 1980s
+10.D,the role of the Heritage Foundation in shaping conservative policies
+10.D,the impact of the Moral Majority on American politics
+10.D,the influence of key conservative organizations on public opinion
+10.D,the long-term effects of the conservative movement on U.S. politics
+10.E,significant societal issues of the 1980s and early 1990s
+10.E,the War on Drugs and its impact on American society
+10.E,"the AIDS epidemic and its social, medical, and political consequences"
+10.E,the rise of drug-related crime and its effects on communities
+10.E,public health responses and awareness campaigns related to these issues
+11.A,"U.S. involvement in world affairs, including the end of the Cold War"
+11.A,U.S. participation in the Persian Gulf War
+11.A,"the events surrounding September 11, 2001"
+11.A,U.S. involvement in the global War on Terror
+11.A,the impact of these events on U.S. foreign policy
+11.B,significant social issues from different viewpoints across the political spectrum
+11.B,the health care debate in the United States
+11.B,various perspectives on immigration policies
+11.B,different approaches to education reform
+11.B,and contrast political viewpoints on these key social issues
+11.C,the impact of third parties on the 1992 presidential election
+11.C,the role of third-party candidates in the 2000 presidential election
+11.C,how third parties influenced voter behavior in these elections
+11.C,the effect of third parties on major party platforms and campaigns
+11.C,the long-term implications of third-party movements on U.S. politics
+11.D,the impact of international events on the 21st century economy
+11.D,the influence of multinational corporations on global economics
+11.D,the effects of government policies on economic trends
+11.D,how individuals have shaped economic developments in the 21st century
+11.D,the interconnectedness of global economic factors in the modern era
+12.A,the impact of physical geographic factors on the Klondike Gold Rush
+12.A,how physical and human geography influenced the construction of the Panama Canal
+12.A,the role of geographic factors in the development and severity of the Dust Bowl
+12.A,how geographic elements contributed to the levee failure in New Orleans after Hurricane Katrina
+12.A,and contrast the effects of physical and human geographic factors on major historical events in the United States
+13.A,causes and effects of changing demographic patterns from migration within the United States
+13.A,western expansion and its impact on population distribution
+13.A,the shift from rural to urban areas and its demographic consequences
+13.A,the Great Migration and its effects on American society
+13.A,the population movement from the Rust Belt to the Sun Belt
+13.B,causes and effects of changing demographic patterns resulting from immigration to the United States
+13.B,the factors that influenced immigration to America
+13.B,the impact of immigration on American culture and society
+13.B,the economic effects of immigration on the United States
+13.B,the challenges and opportunities faced by immigrants in America
+14.A,the effects of population growth and distribution on the physical environment
+14.A,how urbanization impacts natural resources and land use
+14.A,the relationship between population density and environmental challenges
+14.A,the consequences of human activities on ecosystems and biodiversity
+14.A,the link between population growth and climate change
+14.B,the roles of governmental entities and private citizens in managing the environment
+14.B,the establishment and impact of the National Park System
+14.B,the role and effectiveness of the Environmental Protection Agency (EPA)
+14.B,the significance and outcomes of the Endangered Species Act
+14.B,citizen-led environmental initiatives and their influence on policy-making
+15.A,how the Transcontinental Railroad's economic impact contributed to closing the frontier
+15.A,how the Homestead Act's economic effects led to the end of the frontier
+15.A,the relationship between westward expansion and economic growth
+15.A,the role of railroads in transforming the American economy
+15.A,the long-term economic consequences of frontier closure
+15.B,the changing relationship between federal government and private business
+15.B,the growth of free enterprise in the late 19th and early 20th centuries
+15.B,the costs and benefits of laissez-faire economic policies
+15.B,the impact of the Sherman Antitrust Act on business practices
+15.B,the effects of the Interstate Commerce Act and Pure Food and Drug Act
+15.C,how the Chinese Exclusion Act of 1882 affected economic issues
+15.C,the economic implications of the Open Door Policy
+15.C,the impact of Dollar Diplomacy on foreign economic relations
+15.C,how immigration quotas influenced the U.S. economy
+15.C,the relationship between foreign policies and domestic economic issues
+15.D,the economic effects of the Spanish-American War
+15.D,the economic impact of World War I on the United States
+15.D,how international conflicts affected American industries and trade
+15.D,the relationship between warfare and economic growth in the early 20th century
+15.D,the long-term economic consequences of U.S. involvement in international conflicts
+16.A,causes of economic growth and prosperity in the 1920s
+16.A,the impact of Warren Harding's Return to Normalcy
+16.A,the effects of reduced taxes on the economy
+16.A,how increased production efficiencies contributed to prosperity
+16.A,the overall economic climate of the 1920s
+16.B,causes of the Great Depression
+16.B,the impact of tariffs on world trade
+16.B,the role of stock market speculation in the economic downturn
+16.B,how bank failures contributed to the Great Depression
+16.B,the monetary policy of the Federal Reserve System
+16.C,effects of the Great Depression on the U.S. economy and society
+16.C,the widespread unemployment during this period
+16.C,the deportation and repatriation of people of Mexican heritage
+16.C,the social impact of economic hardship on families
+16.C,changes in consumer behavior and business practices
+16.D,New Deal policies with opponents' approaches
+16.D,various strategies to resolve economic effects of the Depression
+16.D,arguments for and against government intervention
+16.D,the effectiveness of different economic recovery proposals
+16.D,the political debate surrounding New Deal policies
+16.E,the ongoing impact of New Deal agencies and programs
+16.E,the role of the Federal Deposit Insurance Corporation (FDIC)
+16.E,the functions of the Securities and Exchange Commission (SEC)
+16.E,the purpose and effects of the Social Security Administration
+16.E,how these programs continue to affect U.S. citizens today
+17.A,the economic effects of World War II on the home front
+17.A,how mobilization ended the Great Depression
+17.A,the implementation and impact of rationing during WWII
+17.A,increased employment opportunities for women
+17.A,expanded job prospects for minority groups
+17.B,causes of prosperity in the 1950s
+17.B,the economic impact of the Baby Boom
+17.B,the effects of the GI Bill on post-war prosperity
+17.B,increased consumption patterns in the 1950s
+17.B,the growth of agriculture and business during this period
+17.C,the economic impact of defense spending from 1945 to 1990s
+17.C,how defense spending affected the business cycle
+17.C,the influence of military expenditures on education priorities
+17.C,the role of the military-industrial complex in the economy
+17.C,long-term economic consequences of sustained defense spending
+17.D,government actions aimed at creating economic opportunities
+17.D,the economic impact of the Great Society programs
+17.D,the effects of affirmative action policies on the job market
+17.D,the economic implications of Title IX in education
+17.D,the success of these policies in achieving their intended goals
+17.E,the dynamic relationship between U.S. international trade policies and the U.S. free enterprise system
+17.E,the impact of the OPEC oil embargo on U.S. trade and economy
+17.E,the effects of the General Agreement on Tariffs and Trade (GATT) on U.S. international trade
+17.E,the consequences of the North American Free Trade Agreement (NAFTA) on U.S. business and commerce
+17.E,how changes in U.S. trade policies have influenced domestic economic growth and global market competition
+17.E,the relationship between free trade agreements and the principles of the U.S. free enterprise system
+18.A,the impact of New Deal legislation on the historical roles of state and federal government
+18.A,how New Deal programs expanded federal government powers
+18.A,changes in the relationship between state and federal governments due to New Deal policies
+18.A,specific New Deal programs and their effects on government roles
+18.A,both positive and negative consequences of New Deal legislation on government structure
+18.B,constitutional issues raised by federal government policy changes during significant events
+18.B,World War I's impact on constitutional interpretations
+18.B,how the Great Depression led to shifts in constitutional Analyzeing
+18.B,constitutional challenges during World War II and the 1960s
+18.B,"constitutional issues arising from government responses to September 11, 2001"
+18.C,the effects of political scandals on citizens' trust in the federal government
+18.C,the impact of the Teapot Dome scandal on public perception
+18.C,how the Watergate scandal influenced views of government
+18.C,the effects of Bill Clinton's impeachment on public trust
+18.C,and contrast the long-term consequences of different political scandals
+18.D,the role of contemporary government legislation in private and public sectors
+18.D,the impact of the Community Reinvestment Act of 1977
+18.D,the effects of the USA PATRIOT Act of 2001 on public and private sectors
+18.D,the influence of the American Recovery and Reinvestment Act of 2009
+18.D,the intended and unintended consequences of modern legislation on society
+19.A,the impact of the Gulf of Tonkin Resolution on the relationship between the legislative and executive branches of government
+19.A,how the War Powers Act affected the balance of power between Congress and the President
+19.A,the shift in war-making authority between the legislative and executive branches
+19.A,the long-term consequences of these events on the separation of powers
+19.A,how these events influenced public perception of executive power
+19.B,the impact of Franklin D. Roosevelt's attempt to increase the number of U.S. Supreme Court justices
+19.B,the effects of the 2000 presidential election on the relationship between the executive and judicial branches
+19.B,how these events challenged the balance of power among the three branches of government
+19.B,the role of the Supreme Court in resolving conflicts between branches
+19.B,the long-term implications of these events on the U.S. political system
+20.A,the effects of landmark U.S. Supreme Court decisions
+20.A,the impact of Plessy v. Ferguson on American society
+20.A,the significance of Brown v. Board of Education
+20.A,the implications of Hernandez v. Texas
+20.A,the influence of Tinker v. Des Moines and Wisconsin v. Yoder
+20.B,why landmark constitutional amendments have been proposed
+20.B,the ratification process of constitutional amendments
+20.B,the historical context of proposed amendments from 1877 to present
+20.B,the impact of ratified amendments on American society
+20.B,the reasons behind unsuccessful proposed amendments
+21.A,values crucial to America's success as a constitutional republic
+21.A,the concept of liberty in the context of American exceptionalism
+21.A,the role of egalitarianism in shaping American society
+21.A,the importance of individualism in American culture
+21.A,the concepts of populism and laissez-faire in American governance
+21.B,how American values differ from those of other nations
+21.B,the unique aspects of American culture and society
+21.B,American values to those of other countries
+21.B,the impact of American exceptionalism on global perceptions
+21.B,the historical context of American values and their evolution
+22.A,methods of expanding the right to participate in the democratic process
+22.A,lobbying as a means of increasing political participation
+22.A,the role of non-violent protesting in expanding democratic rights
+22.A,the effectiveness of litigation in achieving political equality
+22.A,the impact of constitutional amendments on expanding democratic participation
+22.B,various means of achieving equality of political rights
+22.B,the impact of the 19th Amendment on women's suffrage
+22.B,the effects of the 24th Amendment on eliminating poll taxes
+22.B,the significance of the 26th Amendment in lowering the voting age
+22.B,the impact of the American Indian Citizenship Act of 1924 on Native American rights
+23.A,contributions of significant political and social leaders in the United States
+23.A,"leaders such as Andrew Carnegie, Thurgood Marshall, Billy Graham"
+23.A,impact of leaders like Sandra Day O'Connor and Hillary Clinton
+23.A,leaders' influence on American society and politics
+23.A,diverse leadership roles in shaping the nation
+23.B,importance of Congressional Medal of Honor recipients
+23.B,recipients such as Army First Lieutenant Vernon J. Baker
+23.B,contributions of recipients like Army Corporal Alvin York
+23.B,"the heroism of Army Master Sergeant Raul ""Roy"" Perez Benavidez"
+23.B,the significance of military service and sacrifice in U.S. history
+24.A,how U.S. history characteristics and issues are reflected in various art genres
+24.A,the portrayal of historical events in literature
+24.A,how music has captured different periods of American history
+24.A,the representation of U.S. culture and society in films
+24.A,how visual arts have depicted significant moments in American history
+24.B,the impact of Tin Pan Alley on American popular music
+24.B,the influence of the Harlem Renaissance on African American culture and society
+24.B,the effects of the Beat Generation on literature and social norms
+24.B,the role of rock and roll in shaping youth culture and social movements
+24.B,the significance of the Chicano Mural Movement in expressing Mexican American identity
+24.C,ways American culture has spread globally through media
+24.C,the impact of Hollywood films on international perceptions of American culture
+24.C,the global influence of American music genres
+24.C,the role of social media in disseminating American cultural values
+24.C,how American brands and products have contributed to cultural globalization
+25.A,actions taken to expand economic opportunities for racial groups
+25.A,efforts to increase political rights for ethnic groups
+25.A,initiatives to promote gender equality in American society
+25.A,measures taken to advance religious freedom for various groups
+25.A,the impact of civil rights movements on expanding opportunities
+25.B,the Americanization movement and its goals
+25.B,efforts to assimilate immigrants into American culture
+25.B,attempts to integrate American Indians into mainstream society
+25.B,the effects of assimilation policies on immigrant communities
+25.B,the long-term consequences of the Americanization movement
+25.C,how racial diversity has shaped American culture
+25.C,the influence of ethnic groups on American society
+25.C,the impact of gender roles on shaping American culture
+25.C,the contributions of various religious groups to American society
+25.C,how cultural pluralism has influenced American identity
+26.A,the effects of scientific discoveries and technological innovations on U.S. economic development
+26.A,the impact of electric power on American industry and daily life
+26.A,how telephone and satellite communications revolutionized business and personal interactions
+26.A,the role of petroleum-based products in shaping modern American society
+26.A,how steel production and computers transformed the U.S. economy
+26.B,the relationship between specific needs and resulting scientific discoveries
+26.B,how agricultural needs led to innovations in farming techniques and equipment
+26.B,the impact of military requirements on technological advancements
+26.B,how medical needs drove progress in healthcare and pharmaceuticals
+26.B,the role of space exploration in spurring scientific and technological innovation
+26.C,the effect of technological innovations in the workplace
+26.C,how assembly line manufacturing changed production methods and labor practices
+26.C,the impact of robotics on efficiency and job markets in various industries
+26.C,how automation has transformed traditional manufacturing processes
+26.C,the role of computer technology in reshaping office environments and work practices
+27.A,how scientific discoveries and technological innovations improve the standard of living in the United States
+27.A,the impact of space exploration on the U.S. standard of living
+27.A,changes in transportation and their effect on American life
+27.A,the influence of communication advancements on U.S. society
+27.A,how the free enterprise system contributes to these improvements
+27.B,how the free enterprise system drives technological innovation
+27.B,the application of technological innovations in the marketplace
+27.B,the impact of cell phones on American society and economy
+27.B,the effects of inexpensive personal computers on U.S. productivity and lifestyle
+27.B,the influence of global positioning products on various industries and daily life
+28.A,"primary and secondary sources such as maps, graphs, speeches, political cartoons, and artifacts to answer historical questions"
+28.A,Use various types of historical evidence to gain information about past events and issues
+28.A,skills in interpreting different forms of historical documentation
+28.A,the context and purpose of historical sources
+28.A,critical thinking to extract relevant information from diverse historical materials
+28.B,absolute and relative chronology to sequence historical events and information
+28.B,Categorize historical data to patterns and trends
+28.B,cause-and-effect relationships in historical events
+28.B,and contrast different historical perspectives and interpretations
+28.B,"Summarize, generalize, and draw conclusions from historical information"
+28.C,Conduct historical research using multiple types of sources
+28.C,the process of historical inquiry to past events
+28.C,Interpret various types of historical evidence
+28.C,Use research skills to gather information about historical topics
+28.C,Synthesize information from diverse sources to form historical arguments
+28.D,a variety of historical and contemporary sources for validity
+28.D,the credibility of different types of historical evidence
+28.D,potential bias in historical and contemporary sources
+28.D,the accuracy of information presented in various sources
+28.D,critical thinking skills to and interpret historical documents
+28.E,bias in historical narratives and interpretations
+28.E,Support a point of view on a social studies issue with historical evidence
+28.E,how different perspectives shape historical accounts
+28.E,the influence of personal beliefs on historical interpretation
+28.E,skills to critically historical arguments and claims
+28.F,claims supported by evidence for an intended audience
+28.F,"historical information visually, orally, or in writing"
+28.F,Use reasoning to support historical arguments and conclusions
+28.F,historical presentations to specific purposes and audiences
+28.F,effective communication skills for presenting historical information
+29.A,Create written presentations of social studies information using effective communication skills
+29.A,oral presentations of social studies content with proper citations
+29.A,visual presentations of social studies data avoiding plagiarism
+29.A,multiple formats to social studies information effectively
+29.A,Incorporate proper citations in all forms of social studies presentations
+29.B,Use appropriate social studies terminology in written and oral communication
+29.B,Analyzeing of subject-specific vocabulary in context
+29.B,correct historical and geographical terms in Analyzeions and assignments
+29.B,complex social studies concepts using precise terminology
+29.B,Integrate social studies jargon accurately in academic discourse
+29.C,Engage in civil discourse about social studies topics with diverse perspectives
+29.C,foundational language skills in social studies Analyzeions
+29.C,respectful communication when debating historical issues
+29.C,Articulate viewpoints on social studies subjects clearly and diplomatically
+29.C,Participate in constructive dialogues about controversial historical events
+30.A,"Create visual representations of historical information using thematic maps, graphs, and charts"
+30.A,skills in presenting historical data through various visual formats
+30.A,ability to transform written or numerical historical information into visual formats
+30.A,Analyzeing of historical trends and patterns through visual representation
+30.A,critical thinking to select appropriate visual formats for different types of historical data
+30.B,"questions about geographic distributions and patterns shown on maps, graphs, charts, and databases"
+30.B,geographic data to spatial relationships and trends
+30.B,Interpret information presented in various geographic tools and databases
+30.B,skills in reading and Analyzeing different types of geographic representations
+30.B,Use geographic tools to draw conclusions about historical and contemporary issues
+31.A,governmental and democratic processes using simulations and models
+31.A,voting procedures in practical scenarios
+31.A,Analyzeing of due process through role-playing exercises
+31.A,Participate in mock caucuses to experience decision-making processes
+31.A,the effectiveness of various democratic systems through comparative studies
+31.B,a problem within a given context or scenario
+31.B,Gather relevant information from multiple sources to the issue
+31.B,List and various options for addressing the problem
+31.B,advantages and disadvantages of each potential solution
+31.B,Implement a chosen solution and its effectiveness

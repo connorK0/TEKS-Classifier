@@ -1,0 +1,12 @@
+beautifulsoup4>=4.12
+canvasapi>=3.0
+gspread>=6.0
+python-dotenv>=1.0
+torch>=2.2
+transformers>=5.0
+
+# Training (training/train.py)
+accelerate>=1.0
+
+# Tests
+pytest>=8.0
